@@ -1,0 +1,3 @@
+import os
+
+TICKETS1 = ["PETR4.SA", "VALE3.SA", "ITUB4.SA", "MGLU3.SA", "ITSA4.SA", "BBAS3.SA"] 
